@@ -1,0 +1,12 @@
+Obuolys    Raudona       0.0      0.0  true 
+Obuolys    Raudona       0.6      0.3  true 
+Obuolys    Raudona       1.1      0.5  true 
+Obuolys    Raudona       1.7      0.8  true 
+Obuolys    Raudona       2.2      1.0  true 
+Obuolys    Raudona       2.8      1.3  true 
+Obuolys    Raudona       3.3      1.5  true 
+Obuolys    Raudona       3.9      1.8  true 
+Ananasas   Geltona       2.1      1.6  true 
+Mangas     Raudona       1.0      1.1  true 
+Kivis      Žalia         0.2      0.9  true 
+Abrikosas  Geltona       1.2      0.8  true 
